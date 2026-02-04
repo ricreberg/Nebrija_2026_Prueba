@@ -1,7 +1,11 @@
 package trimestre2.ejercicios.ejercicios04_Bingo__Z;
 // Github prueba
+// Oborro esta
 import java.util.ArrayList;
 import java.util.Collections;
+// Y otra prueba
+// uwu
+
 
 public class Juego {
     private ArrayList<Jugador> jugadores;
