@@ -2,6 +2,7 @@ package trimestre2.ejercicios.ejercicios04_Bingo__Z;
 // Github prueba
 // Oborro esta
 import java.util.ArrayList;
+// prueba en github
 import java.util.Collections;
 // Y otra prueba
 // uwu
@@ -49,4 +50,5 @@ public class Juego {
     private boolean verificarGanador(Jugador j) {
         return bolingasExtraidas.containsAll(j.getCarton().getNumeros());
     }
+
 }
